@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationM2Demo</string>
+    <string name="txt_hello">Gaisuwa! ya ka ke?</string>
+    <string name="logo">Tambarin android</string>
+</resources>

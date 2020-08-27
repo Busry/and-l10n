@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizationM2Demo</string>
+    <string name="txt_hello">Hello! how are you ?</string>
+    <string name="logo">android logo</string>
+</resources>
